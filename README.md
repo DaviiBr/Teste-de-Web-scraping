@@ -50,6 +50,3 @@ python src/main.py
 - **PyPDF2** (Manipulação de PDFs)
 - **Pandas** (Conversão para CSV)
 - **Zipfile** (Compactação dos PDFs)
-
-## Autor
-Desenvolvido por [Seu Nome].
